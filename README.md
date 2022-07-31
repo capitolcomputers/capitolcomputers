@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @capitolcomputers
-- 👀 I’m a Web developer
+- 👀 I’m a frontend Web developer
 - 📫 How to reach me ... aijalonbode@gmail.com
 
 <!---
