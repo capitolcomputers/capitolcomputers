@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AijalonBode
-- 👀 A frontend software developer and IT enthusiast.
+- 👀 A frontend software developer and IT Technical Support Engineer.
 - 📫 How to reach me ... aijalonbode@gmail.com
 - 📩 My Linkedin... https://www.linkedin.com/in/aijalon-bode-00b90a152
 
